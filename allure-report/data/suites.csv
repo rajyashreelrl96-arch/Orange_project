@@ -1,0 +1,8 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","62945","test_forgot_password","tests","2026-06-08","broken","2026-06-08","TestLogin","test_login","",""
+"","2938","test_login[wrongAdmin-wrong123]","tests","2026-06-08","passed","2026-06-08","TestLogin","test_login","",""
+"","15249","test_create_user","tests","2026-06-08","passed","2026-06-08","TestAdminPage","test_admin","",""
+"","11979","test_open_myinfo","tests","2026-06-08","passed","2026-06-08","TestMyInfo","test_my_info","",""
+"","5842","test_assign_leave","tests","2026-06-08","passed","2026-06-08","TestLeave","test_leave","",""
+"","2446","test_login[Admin-admin123]","tests","2026-06-08","passed","2026-06-08","TestLogin","test_login","",""
+"","11692","test_claim","tests","2026-06-08","passed","2026-06-08","TestClaim","test_claim","",""
